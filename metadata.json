@@ -1,0 +1,6 @@
+{
+  "name": "Le Repository Pattern en Java",
+  "description": "Présentation technique et visuelle du Repository Pattern pour développeurs Java : architecture, implémentation, génériques, DAO vs Service et bonnes pratiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
